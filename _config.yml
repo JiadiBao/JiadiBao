@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: light
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://JiadiBao.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ github: JiadiBao
 email: myemail@gmail.com
 
 authors:
-  johndoe:
+  Jiadi:
     name: Jiadi Bao
     bio: who in love with all kinds of pizzas
     external-image: false
