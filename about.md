@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-<img src="/Users/cartybao/Desktop/照片和签名/blog/JiadiBao/assets/images/profile.jpg" alt="Profile Image" style="zoom:30%;" />
+<img src="https://JiadiBao.github.io/assets/images/profile.jpg" alt="Profile Image" style="zoom:30%;" />
+
 
 ## About me
 
